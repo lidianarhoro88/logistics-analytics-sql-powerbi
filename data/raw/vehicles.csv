@@ -1,0 +1,31 @@
+vehicle_id,vehicle_type,capacity_kg,fuel_cost_per_km
+V001,Van,1200,3.13
+V002,Motorcycle,30,0.65
+V003,Van,1200,2.91
+V004,Motorcycle,30,1.08
+V005,Light Truck,3500,5.19
+V006,Van,1200,3.41
+V007,Light Truck,3500,5.02
+V008,Motorcycle,,1.10
+V009,Van,1200,2.93
+V010,Motorcycle,30,0.66
+V011,Van,1200,3.17
+V012,LIGHT TRUCK,3500 kg,5.26
+V013,Light Truck,3500,5.10
+V014,Motorcycle,30,0.89
+V015,HeavyTruck,12000,8.89
+V016,Light Truck,3500,5.33
+V017,Light Truck,3500,5.04
+V018,Van,1200,3.26
+V019,Van,1200,3.09
+V020,Van,1200,3.33
+V021,HeavyTruck,12000,8.97
+V022,Light Truck,3500,5.01
+V023,Light Truck,3500,5.25
+V024,Van,1200,"3,21"
+V025,Motorcycle,30,1.05
+V026,Van,1200,3.31
+V027,LIGHT TRUCK,3500,5.32
+V028,Heavy Truck,12000,8.54
+V029,Light Truck,3500,5.36
+V030,Heavy Truck,12000,"8,73"

@@ -1,0 +1,209 @@
+customer_id,customer_name,city,phone,signup_date
+C0102,Yıldız Elektronik A.Ş.,Ankara,+90 552 912 56 75,25/07/2022
+C0117,Çelik Ticaret Ltd. Şti.,Istanbul,+90 520 394 20 54,2023-11-03
+C0119,Aydın Kimya Ltd. Şti.,Istanbul,05508872193,2023-07-02
+C0193,Aydın Kimya Ltd. Şti.,Izmir,523-781-85-32,2024-01-22
+C0003,Doğan Yapı A.Ş.,İstanbul,05084009089,2023-01-06
+C0049,AYDIN ELEKTRONIK LTD. ŞTI.,Izmir,540-883-96-44,21/02/2024
+C0165,Aydın Yapı Ltd. Şti.,Kocaeli,507-750-95-99,06/03/2022
+C0064,  Aydın Elektronik A.Ş. ,Izmir,05246985891,2022-04-21
+C0077,Doğan Kimya Ltd. Şti.,Kocaeli,05047949685,2023-11-15
+C0076,Şahin Mobilya Ltd. Şti.,Ankara,05491861629,2023-09-25
+C0147,Aydın Mobilya A.Ş.,Istanbul,+90 548 273 97 58,2022-10-03
+C0070,  Koç Yapı Ltd. Şti. ,Istanbul,05316026619,2022-11-26
+C0079,Yılmaz Mobilya A.Ş.,Bursa,05468269163,2023-02-19
+C0140,Aydın Tekstil A.Ş.,Ankara,544-934-55-44,2022-03-22
+C0046,Doğan Mobilya Ltd. Şti.,Ankara,+90 513 370 94 20,2022-06-27
+C0022,Yıldız Gıda A.Ş.,Bursa,05423423032,2022-01-26
+C0041,Kurt Yapı A.Ş., Istanbul ,05388764098,2023-12-30
+C0128,Kurt Mobilya Ltd. Şti.,Ankara,05317999479,2024-05-30
+C0121,Demir Kimya Ltd. Şti.,Istanbul,05548353311,2024-03-20
+C0092,Yılmaz Yapı A.Ş.,IZMIR,531-894-46-40,2022-02-18
+C0126,Öztürk Ticaret Ltd. Şti.,Istanbul,05406726996,2024-01-11
+C0124,Çelik Ticaret Ltd. Şti.,Bursa,05178658757,17.07.2023
+C0024,Çelik Ticaret Ltd. Şti.,Istanbul,520-218-43-32,2022-09-29
+C0136,Öztürk Elektronik A.Ş.,IST,+90 552 116 43 80,2023-08-17
+C0139,ÖZTÜRK KIMYA A.Ş.,Ankara,,2022-10-09
+C0034,Koç Mobilya A.Ş.,Istanbul,506-706-82-94,
+C0044,Arslan Yapı A.Ş.,ISTANBUL,+90 544 580 71 66,2022-02-22
+C0081,Yıldız Elektronik A.Ş.,Antalya,511-281-90-73,01/08/2023
+C0111,Arslan Yapı A.Ş.,Istanbul,05458732835,2023-02-16
+C0075,KOÇ LOJISTIK LTD. ŞTI.,Istanbul,05202852882,2022-03-13
+C0020,Çelik Lojistik A.Ş.,Izmir,,2022-05-14
+C0177,Çelik Ticaret A.Ş.,Antalya,,2022-09-08
+C0093,Doğan Lojistik A.Ş.,Istanbul,,2023-08-08
+C0072,Şahin Mobilya Ltd. Şti.,Bursa,05357814257,05.12.2023
+C0001,Koç Ticaret A.Ş.,Istanbul,+90 558 189 85 64,
+C0152,Aydın Mobilya A.Ş.,Kocaeli,541-211-41-94,2022-06-20
+C0192,Yıldız Lojistik A.Ş.,Kocaeli,+90 545 174 57 94,2022-04-14
+C0027,Koç Tekstil Ltd. Şti.,Bursa,+90 539 721 93 51,2023-03-29
+C0167,DEMIR KIMYA LTD. ŞTI.,izmir,514-262-45-21,2022-09-14
+C0195,KAYA ELEKTRONIK LTD. ŞTI.,Ankara,05218371016,2024-01-21
+C0120,Aydın Tekstil A.Ş.,Ankara,520-109-48-82,2022-12-10
+C0015,Arslan Kimya A.Ş.,Ankara,,2022-03-04
+C0014,Kaya Gıda A.Ş.,Kocaeli,+90 516 102 59 43,2024-03-14
+C0141,Şahin Yapı A.Ş.,Bursa,+90 536 486 80 70,2022-01-10
+C0198,Arslan Yapı Ltd. Şti.,ankara,532-155-56-10,29/10/2022
+C0130,Yılmaz Mobilya A.Ş.,Istanbul,05403501561,2023-07-07
+C0164,Koç Tekstil A.Ş.,Bursa,537-245-83-90,2023-03-01
+C0002,Arslan Gıda Ltd. Şti.,Istanbul,+90 516 448 45 29,2024-02-21
+C0019,Arslan Yapı A.Ş.,Antalya,+90 558 259 44 46,2024-01-05
+C0131,Çelik Gıda Ltd. Şti.,Antalya,+90 522 776 76 38,2022-10-09
+C0144,Şahin Ticaret Ltd. Şti.,Izmir,05049026772,21.07.2023
+C0101,Kurt Kimya A.Ş.,Izmir,05112381967,2024-01-01
+C0017,Yıldız Yapı A.Ş.,ankara,+90 554 568 50 19,
+C0190,Şahin Mobilya Ltd. Şti.,ankara,+90 545 925 99 55,2022-01-29
+C0191,Öztürk Yapı A.Ş.,Istanbul,+90 508 589 10 52,26/07/2022
+C0188,Aydın Gıda A.Ş.,Istanbul,05555917972,2023-08-03
+C0176,  Kurt Yapı A.Ş. ,Antalya,05413698390,2023-04-12
+C0154,Yıldız Lojistik Ltd. Şti.,Istanbul,+90 552 456 49 53,2022-07-31
+C0162,Yıldız Ticaret Ltd. Şti.,Bursa,+90 559 805 54 88,2022-06-19
+C0149,Yıldız Kimya Ltd. Şti.,Istanbul,514-428-87-98,2022-11-18
+C0056,Koç Tekstil Ltd. Şti.,Antalya,05072027768,
+C0062,Koç Tekstil A.Ş.,Istanbul,05094732621,2022-12-01
+C0113,Yıldız Elektronik A.Ş.,ISTANBUL,550-711-70-43,20240312
+C0058,Şahin Ticaret Ltd. Şti.,Ankara ,+90 532 810 48 13,2024-03-26
+C0114,Demir Mobilya A.Ş.,Bursa,503-119-66-50,2023-02-27
+C0086,Aydın Tekstil A.Ş.,Kocaeli,+90 558 195 92 95,2023-01-06
+C0199,Demir Yapı A.Ş.,Ankara ,05341939279,15.01.2023
+C0137,Şahin Kimya Ltd. Şti.,Antalya,557-571-31-55,2024-01-08
+C0016,Arslan Tekstil A.Ş.,Izmir,503-513-25-82,2023-09-01
+C0051,Öztürk Ticaret Ltd. Şti.,ANKARA,508-573-62-16,2023-01-06
+C0123,Doğan Lojistik Ltd. Şti.,Antalya,,2022-11-11
+C0060,Çelik Tekstil A.Ş.,Ankara,534-567-48-35,2024-05-23
+C0097,Öztürk Mobilya Ltd. Şti.,Istanbul,521-844-64-20,2024-04-22
+C0127,Yılmaz Mobilya Ltd. Şti.,Bursa,,2023-04-29
+C0181,Yılmaz Tekstil Ltd. Şti.,ankara,535-569-20-84,2022-05-17
+C0047,Öztürk Yapı A.Ş.,Izmir,05033709085,2022-07-22
+C0007,Arslan Kimya A.Ş.,Antalya ,+90 556 710 18 59,2023-04-25
+C0059,Doğan Tekstil A.Ş.,Antalya,517-697-28-39,2022-09-18
+C0005,Demir Kimya Ltd. Şti.,Istanbul,+90 555 963 17 39,2024-04-04
+C0032,Arslan Ticaret A.Ş.,Antalya,+90 506 517 52 79,2022-03-05
+C0116,Kurt Yapı Ltd. Şti.,Kocaeli,+90 524 821 36 98,2022-11-21
+C0155,Öztürk Elektronik A.Ş.,kocaeli,05517933141,2023-07-20
+C0105,Yıldız Yapı A.Ş.,Istanbul,+90 554 729 78 21,2022-06-22
+C0179,Kaya Kimya Ltd. Şti.,Ankara,05053054782,2024-01-28
+C0170,Doğan Lojistik A.Ş.,Izmir,+90 539 803 66 37,2022-04-13
+C0073,Kurt Elektronik A.Ş.,Kocaeli,05515205595,10/03/2023
+C0138,Yılmaz Lojistik A.Ş.,Izmir,05131692911,2023-04-12
+C0171,Aydın Elektronik A.Ş.,IZMIR,549-391-98-13,06/11/2023
+C0186,Kaya Lojistik A.Ş.,Ankara,+90 521 143 69 16,2023-08-11
+C0065,Yıldız Gıda A.Ş.,Ankara,531-243-15-14,2023-05-20
+C0091,Yıldız Gıda A.Ş.,Izmir,05121394670,23/05/2022
+C0040,Yıldız Gıda A.Ş.,IST,546-444-13-73,2022-07-06
+C0021,AYDIN LOJISTIK A.Ş.,Bursa,505-696-80-28,2022-02-12
+C0189,ŞAHIN LOJISTIK LTD. ŞTI.,Istanbul,512-202-41-94,01/07/2023
+C0066,Yıldız Mobilya A.Ş.,Istanbul,534-133-98-57,01.04.2023
+C0008,Kaya Yapı Ltd. Şti.,ANKARA,554-612-32-74,2024-06-10
+C0048,Demir Ticaret A.Ş.,Ankara,527-227-69-98,17.02.2023
+C0182,Şahin Yapı Ltd. Şti.,ISTANBUL,525-563-44-39,2022-07-27
+C0098,Çelik Yapı Ltd. Şti.,Istanbul,05308445588,2022-10-09
+C0148,Aydın Yapı Ltd. Şti.,Istanbul,557-708-88-35,2022-05-19
+C0095,Yılmaz Elektronik Ltd. Şti.,Istanbul,05577463327,05.03.2024
+C0053,Koç Tekstil Ltd. Şti.,Antalya,05373496880,15.07.2022
+C0157,Kurt Ticaret A.Ş.,İstanbul,+90 531 368 95 72,2023-10-17
+C0197,Demir Ticaret A.Ş.,Kocaeli,506-769-31-87,2022-06-10
+C0025,Aydın Ticaret Ltd. Şti.,Izmir,,17.06.2023
+C0012,Doğan Kimya A.Ş.,izmir,+90 556 462 64 62,2024-01-17
+C0083,Doğan Mobilya Ltd. Şti.,Istanbul,+90 539 767 34 51,2023-05-29
+C0077,Doğan Kimya Ltd. Şti.,Kocaeli,05047949685,2023-11-15
+C0054,Çelik Mobilya Ltd. Şti.,Ankara,05549578584,17/05/2023
+C0094,  Kaya Lojistik Ltd. Şti. ,Izmir,05204651854,2023-11-04
+C0035,Yılmaz Yapı Ltd. Şti.,Kocaeli,05263582070,
+C0042,Şahin Yapı Ltd. Şti.,Istanbul,545-460-99-68,2022-09-15
+C0169,Kaya Mobilya A.Ş.,KOCAELİ,+90 505 476 48 27,12/04/2024
+C0178,Arslan Mobilya A.Ş.,Kocaeli,05094812574,2022-02-23
+C0057,Kaya Kimya Ltd. Şti.,izmir,05584895090,2024-02-17
+C0132,KOÇ MOBILYA LTD. ŞTI., Istanbul ,05458136362,2023-01-21
+C0163,Doğan Elektronik Ltd. Şti.,Antalya,05293737596,20220519
+C0180,ŞAHIN GIDA A.Ş.,Ankara ,05504431094,2024-01-26
+C0030,Arslan Kimya A.Ş.,Ankara,+90 538 672 86 50,2023-03-30
+C0187,Aydın Tekstil Ltd. Şti.,istanbul,+90 509 734 88 41,2023-05-26
+C0135,Öztürk Gıda A.Ş.,Istanbul,05376469355,2023-01-04
+C0088,DOĞAN TEKSTIL LTD. ŞTI.,Antalya ,05448706739,20221113
+C0090,Çelik Ticaret A.Ş.,Istanbul,05039366754,2023-03-01
+C0110,Öztürk Kimya Ltd. Şti.,Ankara ,05558826156,2022-02-22
+C0063,Yıldız Yapı A.Ş.,Izmir,05559232469,25/05/2022
+C0166,Öztürk Yapı Ltd. Şti.,,535-798-16-15,13/03/2024
+C0036,Koç Ticaret A.Ş.,Istanbul,+90 542 344 26 70,01.08.2023
+C0080,Kurt Elektronik A.Ş.,Istanbul,05415054953,2024-03-08
+C0078,Çelik Gıda A.Ş.,BURSA,05562792658,2022-08-24
+C0087,Öztürk Gıda A.Ş., Istanbul ,+90 548 955 77 14,16/06/2024
+C0006,Kurt Elektronik A.Ş.,istanbul,05142424181,2024-02-04
+C0096,Yılmaz Elektronik Ltd. Şti.,Ankara,05033925516,2022-12-06
+C0069,Doğan Elektronik A.Ş.,Izmir,501-587-67-56,2022-04-22
+C0185,Kurt Gıda A.Ş.,Ankara,+90 503 233 35 61,08.10.2023
+C0013,Kaya Gıda A.Ş.,Kocaeli,05339951966,2024-05-26
+C0061,Kurt Yapı A.Ş.,Izmir,550-720-73-46,2022-08-24
+C0085,Koç Elektronik A.Ş.,Kocaeli,05599942952,2023-11-11
+C0176,  Kurt Yapı A.Ş. ,Antalya,05413698390,2023-04-12
+C0156,Koç Tekstil A.Ş.,İstanbul,,2022-07-22
+C0103,Doğan Elektronik Ltd. Şti.,Kocaeli,+90 504 507 71 77,24/02/2023
+C0037,Doğan Ticaret A.Ş.,KOCAELİ,,25.11.2023
+C0104,Öztürk Kimya Ltd. Şti.,Istanbul,512-543-74-17,2023-06-15
+C0173,KAYA LOJISTIK A.Ş.,izmir,05447437463,2023-02-16
+C0196,Yıldız Mobilya A.Ş.,Istanbul,512-562-19-14,2022-11-23
+C0010,Arslan Tekstil Ltd. Şti.,Ankara,553-830-49-61,2023-10-28
+C0122,Koç Mobilya Ltd. Şti.,Istanbul,+90 517 431 41 10,2022-08-30
+C0122,Koç Mobilya Ltd. Şti.,Istanbul,+90 517 431 41 10,2022-08-30
+C0125,Şahin Ticaret Ltd. Şti.,IST,+90 508 617 35 83,2022-06-18
+C0099,Aydın Elektronik A.Ş.,Istanbul,05021684092,28.01.2023
+C0068,Kaya Gıda A.Ş.,istanbul,504-979-28-26,2024-03-28
+C0106,  Doğan Elektronik A.Ş. ,Ankara,,2023-08-14
+C0089,Doğan Kimya Ltd. Şti.,Ankara,05139208727,2022-02-23
+C0138,Yılmaz Lojistik A.Ş.,Izmir,05131692911,2023-04-12
+C0074,Yıldız Ticaret A.Ş.,Bursa,05452174583,16/03/2023
+C0158,Öztürk Tekstil Ltd. Şti.,Istanbul,05034122433,2022-05-25
+C0145,Kaya Yapı A.Ş.,istanbul,552-857-59-50,2022-04-04
+C0028,Kurt Tekstil A.Ş.,Ankara,+90 514 330 35 28,
+C0026,Koç Gıda Ltd. Şti.,Ankara ,521-837-48-74,2023-02-23
+C0150,Koç Kimya A.Ş.,Ankara,05093048579,2024-02-26
+C0168,Kurt Gıda Ltd. Şti.,ANKARA,,2022-05-16
+C0146,Kaya Tekstil Ltd. Şti.,,+90 505 667 21 86,29/11/2022
+C0184,Demir Ticaret A.Ş.,Ankara,,20240419
+C0039,Kaya Mobilya Ltd. Şti.,Bursa,05187664488,06/07/2023
+C0107,Yılmaz Kimya Ltd. Şti., Istanbul ,534-564-19-98,2023-03-27
+C0029,Kaya Kimya Ltd. Şti.,BURSA,05363492893,08/02/2024
+C0108,Yıldız Elektronik Ltd. Şti.,Antalya,05172254467,2022-04-10
+C0172,Çelik Lojistik A.Ş.,Ankara ,508-112-56-50,31/05/2024
+C0151,Öztürk Yapı A.Ş.,Kocaeli,05143474294,10/03/2023
+C0160,Koç Kimya Ltd. Şti.,Izmir,503-399-14-45,2022-10-23
+C0004,Kaya Gıda A.Ş.,Istanbul,+90 525 314 95 44,2023-12-01
+C0118,Arslan Yapı A.Ş.,İzmir,+90 558 331 91 39,2023-02-28
+C0134,Aydın Lojistik A.Ş.,Izmir,517-313-52-48,2022-01-16
+C0071,Arslan Elektronik Ltd. Şti.,Antalya,531-912-99-24,29/10/2023
+C0084,YILDIZ TICARET A.Ş.,Ankara,549-262-56-57,2023-02-01
+C0142,Yıldız Ticaret A.Ş.,Antalya,534-147-19-97,2023-07-11
+C0102,Yıldız Elektronik A.Ş.,Ankara,+90 552 912 56 75,25/07/2022
+C0143,Şahin Tekstil Ltd. Şti.,kocaeli,538-439-59-27,2023-12-07
+C0100,Yıldız Elektronik Ltd. Şti.,Istanbul,05243552413,2023-05-27
+C0023,Koç Gıda Ltd. Şti.,Izmir,+90 533 304 68 54,25/03/2024
+C0018,Arslan Yapı A.Ş.,,05225487948,2024-04-06
+C0082,Koç Elektronik Ltd. Şti.,Bursa,05291575574,2023-04-18
+C0067,Arslan Elektronik A.Ş.,Istanbul,05037579186,21/02/2022
+C0153,Aydın Elektronik Ltd. Şti.,Ankara,548-694-98-83,2023-01-19
+C0200,Çelik Gıda Ltd. Şti.,Istanbul,+90 505 927 79 62,2023-08-27
+C0161,Arslan Ticaret A.Ş.,antalya,507-659-37-64,2024-04-29
+C0052,Arslan Tekstil Ltd. Şti.,Bursa,543-826-30-49,2023-07-20
+C0112,Öztürk Kimya A.Ş.,Izmir,522-502-88-48,04/06/2023
+C0175,Doğan Lojistik Ltd. Şti.,İzmir,+90 552 818 11 30,2022-12-22
+C0021,AYDIN LOJISTIK A.Ş.,Bursa,505-696-80-28,2022-02-12
+C0109,Demir Elektronik Ltd. Şti.,ANKARA,05346091221,2023-06-02
+C0011,  Yıldız Lojistik A.Ş. ,Istanbul,+90 511 132 52 19,2022-10-13
+C0033,Kurt Lojistik Ltd. Şti.,Istanbul,05388657987,2023-05-15
+C0050,Demir Mobilya Ltd. Şti.,Bursa,05519783052,2023-05-23
+C0055,Arslan Mobilya Ltd. Şti.,Istanbul,+90 546 339 62 15,2023-04-30
+C0043,Kurt Tekstil A.Ş.,Istanbul,544-202-34-47,2022-07-03
+C0045,Kaya Lojistik A.Ş.,Ankara,+90 508 882 63 87,2023-09-26
+C0115,Kurt Lojistik A.Ş.,Antalya,05464213268,2022-12-17
+C0194,Doğan Mobilya A.Ş.,Istanbul,519-206-73-28,2022-03-21
+C0031,Arslan Kimya A.Ş.,Istanbul,+90 554 884 76 72,2022-10-09
+C0038,Kurt Gıda A.Ş.,Bursa,+90 540 455 78 64,2022-03-12
+C0159,Demir Kimya A.Ş.,Ankara,05391545511,19/07/2022
+C0174,Kaya Gıda A.Ş.,Antalya ,551-417-99-65,2024-05-16
+C0061,Kurt Yapı A.Ş.,Izmir,550-720-73-46,2022-08-24
+C0133,Demir Kimya A.Ş.,izmir,+90 533 361 36 52,06/04/2023
+C0147,Aydın Mobilya A.Ş.,Istanbul,+90 548 273 97 58,2022-10-03
+C0129,Kurt Gıda A.Ş.,Antalya,546-644-58-39,2022-12-21
+C0009,Demir Lojistik Ltd. Şti.,Ankara ,05103468220,13/05/2023
+C0183,Öztürk Elektronik Ltd. Şti.,izmir,05273712521,2023-12-04
