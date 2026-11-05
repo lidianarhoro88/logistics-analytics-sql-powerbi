@@ -1,5 +1,7 @@
 # Logistics Operations Analytics — SQL Server + Power BI
 
+**[Open the live Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMzczMGRiOTMtZGJhMy00ZDc2LTgyM2UtZWYwOGFmZGZlMmY4IiwidCI6IjM4N2Q0NmE2LWU4NWMtNDA4Ni1iYWVjLTY1YmU0NjIwNDczMiIsImMiOjl9)** (interactive, no sign-in needed)
+
 End-to-end analytics project for a fictional Turkish delivery company: raw CSV files are loaded into SQL Server, profiled, cleaned, validated with keys and constraints, modelled as a star schema, and presented in a three-page Power BI dashboard.
 
 ![Executive Overview](images/01_executive_overview.png)
